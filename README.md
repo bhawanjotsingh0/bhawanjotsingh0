@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @bhawanjotsingh
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning coding
+- 📫 How to reach me - bhawanjotdhanoa10@gmail.com
